@@ -1,5 +1,5 @@
 # ChallengeAI
-WhiteMatter Technical Account Manager Assessment — MCP server, security gateway, streaming PII guardrail, and token-aware model router.
+Technical Account Manager Assessmentv MCP server, security gateway, streaming PII guardrail, and token-aware model router.
 
 
 # TAM Assessment Tasks
